@@ -1,0 +1,177 @@
+# Privacy Policy
+
+**Effective Date:** 13 November 2026  
+**Last Updated:** 13 November 2026
+
+## 1. Introduction
+
+This Privacy Policy explains how [Your Company Name], operating [Platform Name] ("we", "us", or "our"), collects, processes, stores and protects information obtained through our social media analytics platform.
+
+Our platform is designed to analyse social media content, engagement metrics and performance data from Facebook and Instagram to improve marketing strategies, content recommendations and algorithmic optimisation.
+
+We are committed to protecting personal information and processing data transparently, lawfully and responsibly.
+
+## 2. Information We Collect
+
+Depending on the permissions granted through Meta's developer platform, we may collect the following categories of information:
+
+### A. Social Media Account Information
+- Publicly available account information.
+- Account names and usernames.
+- Page and professional account identifiers.
+- Account-level analytics made available through authorised API permissions.
+
+### B. Content and Engagement Information
+- Post and publication identifiers.
+- Content publication dates and times.
+- Engagement statistics, including likes, comments, shares and other available interactions.
+- Reach, impressions and audience engagement metrics.
+- Video performance and viewing statistics where available.
+- Other analytical information provided through authorised Meta APIs.
+
+### C. Technical Information
+- API responses and associated metadata.
+- Technical logs necessary to maintain the platform.
+- Authentication and access-token information required to operate authorised integrations.
+
+We only access information permitted by the relevant Meta API permissions and the applicable platform terms.
+
+## 3. How We Use Information
+
+Information collected through Facebook and Instagram is used for the following purposes:
+
+1. **Performance Analytics:** To measure the performance of social media content and identify successful content strategies.
+
+2. **Algorithm Optimisation:** To analyse engagement patterns, identify correlations and improve our internal content-ranking, recommendation and optimisation algorithms.
+
+3. **Market Research:** To identify broader content trends, audience engagement patterns and changes in social media performance.
+
+4. **Statistical Analysis:** To produce aggregated datasets, performance reports and analytical insights.
+
+5. **Content Strategy:** To inform decisions regarding publication schedules, content formats, topics and marketing approaches.
+
+6. **Platform Improvement:** To improve the functionality, reliability and analytical capabilities of our software.
+
+7. **Research and Development:** To develop and refine analytical models and automated decision-support systems.
+
+We do not use collected information for purposes unrelated to the operation and improvement of our platform without an appropriate legal basis.
+
+## 4. Automated Processing and Artificial Intelligence
+
+Our platform may use automated analytical systems, statistical models and artificial intelligence to evaluate social media performance.
+
+These systems may:
+- Identify patterns in content engagement.
+- Compare the performance of different publication formats.
+- Analyse relationships between publication timing and engagement.
+- Identify emerging content trends.
+- Generate recommendations for improving marketing performance.
+- Refine internal algorithms based on historical performance data.
+
+Automated analysis is intended to improve our understanding of social media performance and support marketing decisions.
+
+We do not intend to use this information to make legally significant decisions about individuals.
+
+## 5. Data Sharing and Disclosure
+
+We do not sell personal information or social media account data to third parties.
+
+Information may be shared only where necessary for:
+- Operating and maintaining our platform.
+- Providing technical infrastructure and hosting.
+- Meeting legal obligations.
+- Protecting our legal rights and preventing misuse.
+- Obtaining services from authorised processors operating under appropriate data protection agreements.
+
+Where possible, analytical findings will be aggregated or otherwise de-identified before being used in reports or research.
+
+We do not authorise third parties to independently exploit personal information obtained through our platform.
+
+## 6. Data Storage and Security
+
+We implement reasonable technical and organisational safeguards to protect information against unauthorised access, disclosure, alteration, loss or destruction.
+
+These safeguards may include:
+- Access controls and authentication.
+- Encryption where appropriate.
+- Secure storage of API credentials and access tokens.
+- Restricted access to collected information.
+- Regular review of data handling and security procedures.
+
+No electronic storage or transmission system can be guaranteed to be completely secure.
+
+## 7. Data Retention
+
+We retain information only for as long as reasonably necessary to fulfil the purposes described in this policy.
+
+Retention periods depend on the type of information, its intended use, applicable legal requirements and Meta's platform requirements.
+
+Where information is no longer necessary, we will delete it, anonymise it or securely dispose of it, subject to applicable legal obligations.
+
+Information obtained through Meta APIs will be retained and deleted in accordance with applicable Meta Platform Terms and Developer Policies.
+
+## 8. User Rights and Data Deletion
+
+Depending on applicable data protection legislation, individuals may have the right to:
+- Request access to their personal information.
+- Request correction of inaccurate information.
+- Request deletion of personal information.
+- Object to certain processing activities.
+- Request restriction of processing.
+- Withdraw consent where consent is the applicable legal basis.
+- Lodge a complaint with the relevant data protection authority.
+
+Requests concerning personal information can be submitted using the contact details below.
+
+We will assess and respond to requests in accordance with applicable legislation and relevant Meta requirements.
+
+### Meta Platform Data Deletion
+
+Users may request the deletion of information obtained through Facebook or Instagram integrations by contacting us at the address provided below.
+
+We will process valid deletion requests in accordance with applicable Meta developer requirements and data protection legislation.
+
+## 9. Third-Party Platforms
+
+Our platform may interact with third-party services, particularly Meta Platforms, Inc., including Facebook and Instagram.
+
+The collection and processing of information through these services is subject to the relevant platform terms, permissions and privacy requirements.
+
+We do not control the independent privacy practices of third-party platforms.
+
+Users should consult Meta's own privacy documentation for information about how Meta processes their data.
+
+## 10. International Data Transfers
+
+Where information is transferred outside the United Kingdom or European Economic Area, we will implement appropriate safeguards where required by applicable data protection legislation.
+
+These may include adequacy regulations, international data transfer agreements or other legally recognised safeguards.
+
+## 11. Children's Privacy
+
+Our platform is not intended to collect personal information directly from children.
+
+We do not knowingly seek to collect information from children in violation of applicable data protection legislation.
+
+## 12. Changes to This Privacy Policy
+
+We may periodically update this Privacy Policy to reflect changes in our platform, data processing activities, legal obligations or applicable platform requirements.
+
+Updated versions will be published with a revised effective date.
+
+## 13. Contact Information
+
+For questions, privacy enquiries or data deletion requests, please contact:
+
+**Organisation:** [Your Company Name]  
+**Platform:** [Platform Name]  
+**Data Protection Contact:** [Contact Name or Department]  
+**Email:** [Privacy Contact Email]  
+**Website:** [Website URL]  
+**Business Address:** [Business Address]
+
+If you are based in the United Kingdom and believe your personal information has been handled improperly, you may also contact the Information Commissioner's Office (ICO).
+
+---
+
+**End of Privacy Policy**
